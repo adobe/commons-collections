@@ -25,7 +25,7 @@
     <version>39</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>commons-collections</groupId>
+  <groupId>com.adobe</groupId>
   <artifactId>commons-collections</artifactId>
   <version>3.2.2</version>
   <name>Apache Commons Collections</name>
