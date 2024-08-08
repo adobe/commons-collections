@@ -28,7 +28,7 @@
 
   <groupId>com.adobe</groupId>
   <artifactId>commons-collections</artifactId>
-  <version>3.2.2-adobe-1</version>
+  <version>3.2.2-adobe-2</version>
   <name>Apache Commons Collections</name>
 
   <inceptionYear>2001</inceptionYear>
